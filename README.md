@@ -54,4 +54,18 @@ Geen websitebestanden gewijzigd.
 Er komt een tekst op <br>Welkom dames en heren
 
 </details>
+
+<details>
+<summary>06-11-2026 11:38:23 (UTC+01:00) | Opslaan | SamuelRolandHolst | 1 gewijzigde bestanden (+7/−9)</summary>
+
+- **Uitgevoerd door:** SamuelRolandHolst
+- **Branch:** main
+- **Websitebestanden na deze actie:** 3
+- **Vorige opgeslagen versie:** [50c1fa240940f4188dbdfd633266c466d755f5ff](https://github.com/SamuelRolandHolst/Weekopdracht-2/commit/50c1fa240940f4188dbdfd633266c466d755f5ff)
+
+| Bestand | Wijziging | Toegevoegd | Verwijderd |
+| --- | --- | ---: | ---: |
+| index.html | Aangepast | 7 | 9 |
+
+</details>
 <!-- arhc-weblab:log:end -->
